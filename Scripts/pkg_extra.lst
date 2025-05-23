@@ -37,15 +37,15 @@ spicetify-cli                                          # cli to customize spotif
 # neovim                                               # vim based text editor
 
 # --------------------------------------------------- // Shell
-pokego-bin|zsh                                         # display pokemon sprites in terminal (written GO)
+# pokego-bin|zsh                                         # display pokemon sprites in terminal (written GO)
 # oh-my-zsh-git|zsh                                    # Optional plugin manager for zsh
 # pokemon-colorscripts-git|zsh                         # display pokemon sprites (optional)
 
 # --------------------------------------------------- // Editor
-code-marketplace|code                                  # Code-Oss marketplace
+# code-marketplace|code                                  # Code-Oss marketplace
 # vscodium                                             # Full oss text editor
 # vscodium-marketplace|vscodium                        # VSCodium marketplace
-# visual-studio-code-bin                               # MS  text editor
+visual-studio-code-bin                                 # MS  text editor
 
 # --------------------------------------------------- // Backends
 # electron                                             # electron backend
