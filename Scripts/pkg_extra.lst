@@ -4,7 +4,7 @@ mpv                                                    # video player that suppo
 feh                                                    # minmal photo viewer with no gui
 downgrade                                              # downgrade packages
 auto-cpufreq                                           # automatic CPU speed & power optimizer
-# trash-cli-git                                        # cli to manage trash files
+# trash-cli                                            # cli to manage trash files
 # libinput-gestures                                    # actions touchpad gestures using libinput
 # gestures                                             # gui for libinput-gestures
 # wttrbar                                              # for weather
@@ -37,8 +37,8 @@ spicetify-cli                                          # cli to customize spotif
 # neovim                                               # vim based text editor
 
 # --------------------------------------------------- // Shell
-# oh-my-zsh-git|zsh                                    # Optional plugin manager for zsh
-# pokemon-colorscripts-git|zsh                         # display pokemon sprites (optional)
+# oh-my-zsh|zsh                                        # Optional plugin manager for zsh
+# pokemon-colorscripts|zsh                             # display pokemon sprites (optional)
 # pokego-bin|zsh                                       # display pokemon sprites in terminal (written GO)
 
 # --------------------------------------------------- // Editor
@@ -51,7 +51,7 @@ spicetify-cli                                          # cli to customize spotif
 # electron                                             # electron backend
 
 # --------------------------------------------------- // Lockscreen
-# swaylock-effects-git                                 # swaylock with effects // very minimal lockscreen
+# swaylock-effects                                     # swaylock with effects // very minimal lockscreen
 
 # --------------------------------------------------- // OSD
-# swayosd-git                                          # A GTK based on screen display for keyboard shortcuts like caps-lock and volume
+# swayosd                                              # A GTK based on screen display for keyboard shortcuts like caps-lock and volume
