@@ -63,7 +63,7 @@ qt5-wayland                                            # wayland support in qt5
 qt6-wayland                                            # wayland support in qt6
 
 # --------------------------------------------------- // Applications
-firefox                                                # browser
+google-chrome                                          # browser
 kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
@@ -75,7 +75,7 @@ fzf                                                    # Command-line fuzzy find
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
-zsh-theme-powerlevel10k-git|zsh                        # Powerlevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
+zsh-theme-powerlevel10k|zsh                        # Powerlevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 starship|zsh                                           # customizable shell prompt written in Rust
 duf|zsh                                                # prettier version of df for zsh
 # starship-git                                         # The cross-shell prompt for astronauts  
